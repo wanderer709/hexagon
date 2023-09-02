@@ -1,0 +1,5 @@
+class Wave {
+
+}
+
+export { Wave }
